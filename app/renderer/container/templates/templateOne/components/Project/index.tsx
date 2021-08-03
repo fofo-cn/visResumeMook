@@ -10,7 +10,7 @@ import './index.less';
 function Project() {
   return (
     <div styleName="content">
-      <p styleName="label">项目经历 Project</p>
+      <p styleName="label">项目经历</p>
       <ul styleName="list">
         <li styleName="flex">
           <div styleName="left">

@@ -8,7 +8,7 @@ import React from 'react';
 function Post() {
   return (
     <div styleName="content">
-      <p styleName="label">在校经历 Post</p>
+      <p styleName="label">在校经历</p>
       <ul styleName="list">
         <li styleName="flex">
           <div styleName="left">

@@ -9,10 +9,10 @@ import './index.less';
 function Job() {
   return (
     <div styleName="container">
-      <p styleName="title">求职意向 Work</p>
+      <p styleName="title">求职意向</p>
       <ul styleName="content">
         <li>职位：前端工程师</li>
-        <li>城市：广州｜成都｜海口</li>
+        <li>城市：厦门</li>
       </ul>
     </div>
   );

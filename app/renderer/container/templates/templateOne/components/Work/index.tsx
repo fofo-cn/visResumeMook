@@ -17,7 +17,7 @@ function Work() {
           </div>
           <div styleName="right">
             <p>CVTE</p>
-            <p>就职于CVTE，部门人送广州彭于晏，其他的没啥介绍了</p>
+            <p>就职于中外运</p>
           </div>
         </li>
       </ul>

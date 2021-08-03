@@ -8,13 +8,13 @@ import '../../../styles/template-one.less';
 function BaseInfo() {
   return (
     <div styleName="container">
-      <p styleName="title">基本信息 Basic</p>
+      <p styleName="title">基本信息</p>
       <ul styleName="content">
-        <li>院校：湖南瞎说大学</li>
+        <li>院校：福建农林大学</li>
         <li>专业：软件工程</li>
         <li>学历：本科</li>
         <li>学年：2015.09 - 2019.06</li>
-        <li>籍贯：海南·海口</li>
+        <li>籍贯：福建·厦门</li>
       </ul>
     </div>
   );
