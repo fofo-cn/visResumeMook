@@ -1,5 +1,5 @@
 // 创建uid
-export const createUID = () => {
+export function createUID() {
   return 'xxxxxxxxxxxx4xxxyxxxxxxxxxxxxxxx'
     .replace(/[xy]/g, (c) => {
       let r = (Math.random() * 16) | 0;
